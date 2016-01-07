@@ -15,5 +15,5 @@ In order for the app to query the football-data.org API, a personal API key will
 Once obtained, the following line will need to be added to the local.properties file for project:
 
 ```
-FootBallDataApiToken=[YOUR API KEY HERE]
+FOOT_BALL_DATA_API_TOKEN=[YOUR API KEY HERE]
 ```
